@@ -1,1 +1,1 @@
-worker: python3 cp.py
+worker: python3 cd.py
